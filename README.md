@@ -1,4 +1,4 @@
-# Quick Note
+# Quick Note from Adam
 
 This is a copy of the files but not the working app. This is purely for recording my progress - as it's a fairly simple app I'd hope it is easy to follow what is going on within the files (mainly index.js)
 
