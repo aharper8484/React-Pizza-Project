@@ -1,3 +1,7 @@
+# Quick Note
+
+This is a copy of the files but not the working app. This is purely for recording my progress - as it's a fairly simple app I'd hope it is easy to follow what is going on within the files (mainly index.js)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
